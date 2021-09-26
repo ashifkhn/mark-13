@@ -4,9 +4,6 @@ const output=document.querySelector(".output")
 
 
 function reverseString(str) {
-  // var characterList=str.split("")
-  // var reverseList=characterList.reverse()
-  // var reversedString=reverseList.join("")
   return str.split("").reverse().join("");
 }
 

@@ -55,3 +55,15 @@ footer{
     width: 100%;
     text-align: center;
 }
+
+input{
+    padding: 0.5rem;
+    border-radius: 1rem;
+
+}
+
+button{
+    padding: 0.5rem;
+    margin-top: 1rem;
+    border-radius: 0.5rem;
+}
